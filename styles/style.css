@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../img/back.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    text-align: center;
+}
+#content{
+    padding: 2em;
+    background: whitesmoke;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.9;
+}
+label{
+    font-size: 20px;
+}
+select{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 3px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+#messageTotal{
+    background-color: green;
+    color: white;
+    padding: 15px;
+}
+#messageError{
+    background-color: red;
+    color: white;
+    padding: 15px;
+}
+#comprar{
+    margin: 15px;
+}
+#mostrar{
+    margin: 15px;
+}
